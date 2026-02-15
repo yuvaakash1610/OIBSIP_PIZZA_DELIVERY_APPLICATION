@@ -537,7 +537,6 @@ See LICENSE file for details.
 
 If this project helped you, please give it a ⭐ — it means a lot!
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/pizzacraft?style=social)](https://github.com/yourusername/pizzacraft)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/pizzacraft?style=social)](https://github.com/yourusername/pizzacraft)
+https://github.com/yuvaakash1610
 
 </div>
